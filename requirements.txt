@@ -1,1 +1,6 @@
 streamlit
+pandas
+plotly
+pdfplumber
+sqlalchemy
+psycopg[binary]==3.2.6
